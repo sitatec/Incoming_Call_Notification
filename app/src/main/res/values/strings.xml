@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Notify Me</string>
+    <string name="cancel_me">Cancel Me</string>
+    <string name="update_me">Update Me</string>
+    <string name="notify_me">Notify Me</string>
+    <string name="taluxi_client_title">Client Taluxi</string>
+    <string name="incoming_call_title">Appel entrant</string>
+    <string name="answer_call_button_text">DÉCROCHER</string>
+    <string name="hang_up_button_text">RACCROCHER</string>
+    <string name="taluxi_client_img_description">Image client taluxi</string>
+</resources>
