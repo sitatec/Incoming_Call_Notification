@@ -1,4 +1,4 @@
-package com.example.notifyme;
+package com.example.incomingcallnotification;
 
 import android.content.Context;
 

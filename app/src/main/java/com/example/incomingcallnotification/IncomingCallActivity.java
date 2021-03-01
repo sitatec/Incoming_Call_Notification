@@ -1,7 +1,6 @@
-package com.example.notifyme;
+package com.example.incomingcallnotification;
 
 import android.content.Intent;
-import android.os.Build;
 import android.os.Bundle;
 
 public class IncomingCallActivity extends FullScreenActivity {

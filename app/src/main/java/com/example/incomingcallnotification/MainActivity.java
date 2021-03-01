@@ -1,10 +1,7 @@
-package com.example.notifyme;
+package com.example.incomingcallnotification;
 
-import android.app.Notification;
 import android.app.NotificationManager;
-import android.content.ContentResolver;
 import android.content.IntentFilter;
-import android.net.Uri;
 import android.os.Bundle;
 import android.util.Log;
 
