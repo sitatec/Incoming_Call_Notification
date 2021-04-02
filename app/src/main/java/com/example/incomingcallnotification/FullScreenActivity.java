@@ -48,7 +48,7 @@ public class FullScreenActivity extends AppCompatActivity {
     @Override
     public void onWindowFocusChanged(boolean hasFocus) {
         super.onWindowFocusChanged(hasFocus);
-        if (hasFocus && Build.VERSION.SDK_INT >= Build.VERSION_CODES.R)
+        if (hasFocus && Build.VERSION.SDK_INT < Build.VERSION_CODES.R)
             hideNavigationBarForOldAPIs();
     }
 }
